@@ -1,0 +1,52 @@
+<svg width="80" height="31" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="header-svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#4c4c4c" id="svg_2" d="m12.67019,0.78311l53.77369,0l0,0c7.04451,0 12.75519,6.71573 12.75519,15c0,8.28427 -5.71069,15 -12.75519,15l-53.77369,0l0,0c-7.0445,0 -12.75519,-6.71573 -12.75519,-15c0,-8.28427 5.71069,-15 12.75519,-15z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#666666"/>
+  <text stroke="#4c4c4c" transform="matrix(0.5686917975927926,0,0,0.5384116553574031,5.319854495693335,5.418508259316843) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="27.10641" x="59.99569" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#cccccc">Developer</text>
+ </g>
+</svg>
+<svg width="90" height="31" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="header-svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#4c4c4c" fill="#666666" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m14.36723,0.78311l60.92813,0l0,0c7.98176,0 14.45223,6.71573 14.45223,15c0,8.28427 -6.47048,15 -14.45223,15l-60.92813,0l0,0c-7.98175,0 -14.45223,-6.71573 -14.45223,-15c0,-8.28427 6.47048,-15 14.45223,-15z" id="svg_2"/>
+  <text stroke="#4c4c4c" transform="matrix(0.5650081464744525,0,0,0.6281329122432021,5.737520447283811,2.656626435458939) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="22" id="svg_1" y="28.00298" x="67.29292" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#cccccc">Server_staff</text>
+ </g>
+</svg>
+<svg width="90" height="31" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="header-svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#4c4c4c" fill="#666666" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m14.36723,0.78311l60.92813,0l0,0c7.98176,0 14.45223,6.71573 14.45223,15c0,8.28427 -6.47048,15 -14.45223,15l-60.92813,0l0,0c-7.98175,0 -14.45223,-6.71573 -14.45223,-15c0,-8.28427 6.47048,-15 14.45223,-15z" id="svg_2"/>
+  <text stroke="#4c4c4c" transform="matrix(0.5650081464744525,0,0,0.6281329122432021,5.737520447283811,2.656626435458939) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="22" id="svg_1" y="28.00298" x="67.29292" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#cccccc">Forum_staff</text>
+ </g>
+</svg>
+<svg width="80" height="31" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="header-svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#4c4c4c" id="svg_2" d="m12.67019,0.78311l53.77369,0l0,0c7.04451,0 12.75519,6.71573 12.75519,15c0,8.28427 -5.71069,15 -12.75519,15l-53.77369,0l0,0c-7.0445,0 -12.75519,-6.71573 -12.75519,-15c0,-8.28427 5.71069,-15 12.75519,-15z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#666666"/>
+  <text stroke="#4c4c4c" transform="matrix(0.5686917975927926,0,0,0.5384116553574031,5.319854495693335,5.418508259316843) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="27.10641" x="59.99569" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#cccccc">Founder</text>
+ </g>
+</svg>
+<svg width="80" height="31" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="header-svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#4c4c4c" id="svg_2" d="m12.67019,0.78311l53.77369,0l0,0c7.04451,0 12.75519,6.71573 12.75519,15c0,8.28427 -5.71069,15 -12.75519,15l-53.77369,0l0,0c-7.0445,0 -12.75519,-6.71573 -12.75519,-15c0,-8.28427 5.71069,-15 12.75519,-15z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#666666"/>
+  <text stroke="#4c4c4c" transform="matrix(0.5686917975927926,0,0,0.5384116553574031,5.319854495693335,5.418508259316843) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="27.10641" x="59.99569" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#cccccc">Distributor</text>
+ </g>
+</svg>
+
+Circle with image:
+<svg width="120" height="260" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <clipPath id="clipCircle">
+  <circle id="svg_1" cy="60" cx="60" r="60"/>
+ </clipPath>
+ <g>
+  <title>Layer 1</title>
+  <image xlink:href="http://wad0.000webhostapp.com/images/foodlobster.jpg" id="svg_1" height="153.99999" width="190.00001" y="-17" x="-33" clip-path="url(#clipCircle)"/>
+ </g>
+</svg>
