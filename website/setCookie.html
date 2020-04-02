@@ -1,0 +1,45 @@
+<html>
+<head>
+<script src="http://wiad.tk/plugins/js/jquery.js"></script>
+<script src="./jquery.cookie.js"></script>
+<script>
+// Creating a cookie after the document is ready 
+function myFunction() {
+  var txt;
+  var person = prompt("Please enter your name:", "Harry Potter");
+  if (person == null || person == "") {
+    txt = "User cancelled the prompt.";
+  } else {
+    createCookie("LoginCookie", person, "10"); 
+  } 
+}; 
+   
+// Function to create the cookie 
+function createCookie(name, value, days) { 
+    var expires; 
+      
+    if (days) { 
+        var date = new Date(); 
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000)); 
+        expires = "; expires=" + date.toGMTString(); 
+    } 
+    else { 
+        expires = ""; 
+    } 
+      
+    document.cookie = escape(name) + "=" +  
+        escape(value) + expires + "; path=/"; 
+} 
+</script>
+
+</head>
+<body onload="myFunction()">
+
+
+ <form id = 'login' method = 'post' action = 'Coutput.html' >            
+        <input id ="name" type = "text"  value=""/>           
+        <input id="btnSet" type="button" value="Go"/>
+        <input id="btndelete" type="button" value="delete cookie"/>
+ </form>
+ </body>
+ </html>
